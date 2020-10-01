@@ -1,4 +1,5 @@
 const languageNameByKey = {
+    cs: 'Czech',
     de: 'German',
     en: 'English',
     es: 'Spanish',
