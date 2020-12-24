@@ -3,7 +3,8 @@ const languageNameByKey = {
     de: 'German',
     en: 'English',
     es: 'Spanish',
-    fr: 'French'
+    fr: 'French',
+    zh: 'Chinese',
 }
 
 fetch('https://raw.githubusercontent.com/picturama/picturama/master/src/common/i18n/i18n-stats.json')
